@@ -4,6 +4,12 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/HospitalAdmissionManagementSystem.iml" filepath="$PROJECT_DIR$/.idea/HospitalAdmissionManagementSystem.iml" />
       <module fileurl="file://$PROJECT_DIR$/hams/hams.iml" filepath="$PROJECT_DIR$/hams/hams.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hams/renren-security/renren-admin/renren-admin.iml" filepath="$PROJECT_DIR$/hams/renren-security/renren-admin/renren-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hams/renren-security/renren-api/renren-api.iml" filepath="$PROJECT_DIR$/hams/renren-security/renren-api/renren-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hams/renren-security/renren-common/renren-common.iml" filepath="$PROJECT_DIR$/hams/renren-security/renren-common/renren-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hams/renren-security/renren-dynamic-datasource/renren-dynamic-datasource.iml" filepath="$PROJECT_DIR$/hams/renren-security/renren-dynamic-datasource/renren-dynamic-datasource.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hams/renren-security/renren-generator/renren-generator.iml" filepath="$PROJECT_DIR$/hams/renren-security/renren-generator/renren-generator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hams/renren-security/renren-security.iml" filepath="$PROJECT_DIR$/hams/renren-security/renren-security.iml" />
     </modules>
   </component>
 </project>

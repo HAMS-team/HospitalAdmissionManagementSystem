@@ -7,6 +7,7 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/hams/pom.xml" />
+        <option value="$PROJECT_DIR$/hams/renren-security/pom.xml" />
       </list>
     </option>
   </component>
